@@ -1,16 +1,11 @@
-# my_tflit_app
+# Secret Data Protected
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+<H2>Project Output Video:</H2>
 
-A few resources to get you started if this is your first Flutter project:
+https://github.com/user-attachments/assets/2688b779-8300-4f4c-a5f2-443b351e71d1
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
